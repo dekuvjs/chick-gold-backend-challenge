@@ -2,7 +2,7 @@
 
 ## Description
 
-This project provides an API to solve the classic Water Jug Problem. It allows users to determine the sequence of steps needed to measure out a specific amount of water using two jugs of different capacities.
+This project provides an API to solve the classic Water Jug Problem. It allows users to determine the sequence of steps needed to measure out a specific amount of water using two jugs of different capacities and returns. The sequence with fewer steps.
 
 ## Table of Contents
 
